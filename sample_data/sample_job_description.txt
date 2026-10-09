@@ -1,0 +1,17 @@
+Generative AI Developer
+
+Responsibilities:
+- Build Python APIs using FastAPI.
+- Develop retrieval-augmented generation (RAG) applications and work with vector databases.
+- Create LLM-powered AI agents and evaluate outputs.
+- Collaborate with product and engineering teams.
+
+Required skills:
+- Strong Python programming.
+- Experience with FastAPI, RAG, and vector databases.
+- Familiarity with Git and REST APIs.
+- Bachelor's degree in Computer Science or a related field.
+
+Preferred:
+- LangGraph, Docker, AWS, and CI/CD.
+- Experience delivering end-to-end projects.

@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: ai-resume-analyzer-job-match-engine
+Version: 0.1.0
+Summary: Explainable local resume and job-description matching MVP
+Requires-Python: >=3.11
+License-File: LICENSE
+Requires-Dist: fastapi<1.0,>=0.115
+Requires-Dist: uvicorn[standard]<1.0,>=0.30
+Requires-Dist: python-multipart>=0.0.9
+Requires-Dist: pymupdf>=1.24
+Requires-Dist: python-docx>=1.1
+Requires-Dist: streamlit>=1.38
+Requires-Dist: requests>=2.32
+Dynamic: license-file
